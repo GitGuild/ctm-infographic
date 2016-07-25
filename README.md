@@ -1,5 +1,5 @@
-# CTM Infographic
-## (for DashPay Magazine)
+### CTM Infographic
+#### (for DashPay Magazine)
 ***
 ### Included Files
 -  Unoptimized .png
